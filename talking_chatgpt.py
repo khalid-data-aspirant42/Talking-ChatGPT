@@ -32,7 +32,7 @@ from PIL import Image
 '''----------------------------------api and model---------------------------'''
 
 # Set up the OpenAI API client :
-openai.api_key = "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"
+openai.api_key = "your_openai"
 
 # Set up the model (more models, visit https://beta.openai.com/playground)
 model_engine = "text-davinci-003"
